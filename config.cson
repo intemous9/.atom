@@ -1,0 +1,19 @@
+"*":
+  core:
+    allowPendingPaneItems: false
+    themes: [
+      "atom-dark-ui"
+      "atom-dark-syntax"
+    ]
+  editor:
+    fontSize: 11
+    showInvisibles: true
+  "exception-reporting":
+    userId: "d41a852c-7b42-26ff-9d7b-579444ebf712"
+  "highlight-column": {}
+  "symbols-tree-view":
+    autoToggle: true
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ignoreWhitespaceOnCurrentLine: false

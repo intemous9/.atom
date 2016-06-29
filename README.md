@@ -11,3 +11,7 @@ $ apm install --packages-file packages.txt
 ``` shell
 $ apm list --installed --bare > packages.txt
 ```
+
+## Download
+
+https://atom.io/

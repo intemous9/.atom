@@ -15,3 +15,11 @@ $ apm list --installed --bare > packages.txt
 ## Download
 
 https://atom.io/
+
+## よく使うコマンド
+
+### カレントディレクトリでアプリ起動
+
+``` shell
+atom .
+```

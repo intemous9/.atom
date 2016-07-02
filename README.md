@@ -16,7 +16,7 @@ $ apm list --installed --bare > packages.txt
 
 https://atom.io/
 
-## よく使うコマンド
+## よく使うコマンドリスト
 
 ### カレントディレクトリでアプリ起動
 

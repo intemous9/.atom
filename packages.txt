@@ -1,3 +1,4 @@
+atom-typescript@10.0.1
 autocomplete-go@1.1.0
 builder-go@1.0.0
 docblockr@0.7.3

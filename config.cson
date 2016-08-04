@@ -13,6 +13,7 @@
   "highlight-column": {}
   "symbols-tree-view":
     autoToggle: true
+    zAutoHideTypes: "\"variable\""
   welcome:
     showOnStartup: false
   whitespace:

@@ -12,7 +12,7 @@ gorename@1.0.2
 highlight-column@0.5.1
 highlight-line@0.11.1
 language-volt@0.2.2
-linter@1.11.15
+linter@1.11.16
 navigator-godef@1.0.3
 project-manager@2.9.7
 symbols-tree-view@0.13.2

@@ -1,9 +1,9 @@
 atom-typescript@10.1.6
 autocomplete-go@1.1.0
 builder-go@1.0.0
-docblockr@0.8.0
+docblockr@0.8.2
 file-icons@1.7.18
-go-config@1.2.1
+go-config@1.2.2
 go-get@1.0.3
 go-plus@4.1.0
 gofmt@1.1.6

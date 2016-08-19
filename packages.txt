@@ -1,21 +1,23 @@
 atom-typescript@10.1.6
-autocomplete-go@1.1.0
-builder-go@1.0.0
+autocomplete-go@1.1.1
+builder-go@1.0.1
 docblockr@0.8.2
 file-icons@1.7.18
-go-config@1.2.2
-go-get@1.0.3
-go-plus@4.1.0
-gofmt@1.1.6
-gometalinter-linter@1.1.0
-gorename@1.0.2
+go-config@1.2.3
+go-debug@0.1.19
+go-get@1.0.4
+go-plus@4.2.0
+godoc@0.3.0
+gofmt@1.1.7
+gometalinter-linter@1.1.1
+gorename@1.0.3
 highlight-column@0.5.1
 highlight-line@0.11.1
 language-volt@0.2.2
 linter@1.11.16
-navigator-godef@1.0.3
+navigator-godef@1.0.4
 project-manager@2.9.7
 symbols-tree-view@0.13.2
-tester-go@1.0.4
+tester-go@1.0.5
 
 

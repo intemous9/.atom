@@ -1,6 +1,9 @@
 "*":
   core:
     allowPendingPaneItems: false
+    disabledPackages: [
+      "go-debug"
+    ]
     themes: [
       "atom-dark-ui"
       "atom-dark-syntax"
@@ -10,6 +13,7 @@
     showInvisibles: true
   "exception-reporting":
     userId: "d41a852c-7b42-26ff-9d7b-579444ebf712"
+  "go-debug": {}
   "highlight-column": {}
   "symbols-tree-view":
     autoToggle: true

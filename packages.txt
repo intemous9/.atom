@@ -4,7 +4,7 @@ builder-go@1.0.1
 docblockr@0.8.3
 file-icons@1.7.18
 go-config@1.2.3
-go-debug@0.1.20
+go-debug@0.1.21
 go-get@1.0.4
 go-plus@4.2.0
 godoc@0.3.1

@@ -17,7 +17,7 @@ highlight-line@0.11.1
 language-volt@0.2.2
 linter@1.11.16
 navigator-godef@1.0.4
-project-manager@2.9.7
+project-manager@3.2.0
 symbols-tree-view@0.13.2
 tester-go@1.0.6
 

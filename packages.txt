@@ -1,24 +1,26 @@
-atom-typescript@10.1.7
-autocomplete-go@1.2.0
+atom-typescript@10.1.8
+autocomplete-go@1.3.0
 builder-go@1.0.1
-docblockr@0.8.5
-file-icons@1.7.19
+docblockr@0.8.7
+file-icons@1.7.21
 gist-it@0.9.1
 go-config@1.2.4
 go-debug@0.1.22
-go-get@2.0.0
-go-plus@4.2.0
-godoc@1.0.0
+go-get@2.1.1
+go-plus@4.3.2
+godoc@1.1.0
 gofmt@1.2.0
-gometalinter-linter@1.2.1
+gometalinter-linter@1.2.2
 gorename@1.1.0
 highlight-column@0.5.1
 highlight-line@0.11.1
 language-volt@0.2.2
-linter@1.11.16
+linter@1.11.18
+navigator-go@1.1.3
 navigator-godef@1.1.0
 project-manager@3.2.3
 symbols-tree-view@0.13.2
-tester-go@1.1.0
+tester-go@2.0.2
+zephir@0.1.0
 
 
